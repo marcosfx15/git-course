@@ -8,7 +8,7 @@ continuar testando
 Mas um comentario no VIM
 
 
-Testos para simples aprendizados...
+Textos para simples aprendizados...
 	Assuntos variados
 
 One Piece
