@@ -5,7 +5,7 @@ Teste para repositorio Git
 continuar testando
 
 
-Mas um comentario no VIM
+Mais um comentário no VIM
 
 
 Textos para simples aprendizados...
